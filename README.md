@@ -22,7 +22,7 @@ Consulta Pública ao Portal da Transparência - Fortaleza
 
 1. Baixe o repositorio:
 ```
-git clone https://github.com/brunorreiss/transparencia-receita-fortaleza.git
+https://github.com/brunorreiss/transparencia-fortaleza-fonte
 ```
 2. Mude de diretorio:
 ```
