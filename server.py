@@ -48,7 +48,7 @@ responses = {
 
 #---------------------------- Application -------------------------------
 app = FastAPI(
-    title='REST API - Consulta Portal Transparência Fortaleza - Receita', 
+    title='REST API - Consulta Portal Transparência Fortaleza - Fonte', 
     description=desc, 
     debug=False, 
     openapi_tags=tags_metadata,
