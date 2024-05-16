@@ -30,7 +30,7 @@ desc = '<a href="https://transparencia.fortaleza.ce.gov.br/index.php/receita/ind
 tags_metadata = [
     {
         'name': 'transparencia-fortaleza-fonte',
-        'description': 'Consulta Portal Tranparencia Fortaleza - Receita'
+        'description': 'Consulta Portal Tranparencia Fortaleza - Fonte'
     }
 ]
 
