@@ -1,7 +1,11 @@
 from pydantic import BaseModel
 from typing import List
+import server
 
 class Receita(BaseModel):
+    data_inicio: str = ''
+    data_fim: str = ''
+    fonte_consulta: str = 'Portal da Transparência - Fortaleza'
     fonte: str = ''
     descricao: str = ''
     receita_prevista_no_ano: float = 0.0
